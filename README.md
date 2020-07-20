@@ -1,7 +1,6 @@
-### Hi there 👋
-I'm muhammad fahriansyah, Born in Indonesia-West Java June 25, 2001, I studied computers since I was 13 years old, Just a developer with an affinity for Php, Javascript, GO, Python. Loves performance and technology. very interested in Ai and Machine Learning
-
-![Fahri's github stats](https://github-readme-stats.vercel.app/api?username=fachryansyah&show_icons=true&theme=synthwave)
+![Cover](https://raw.githubusercontent.com/fachryansyah/fachryansyah/master/cover.png)
+### My GitHub Stats
+![Fahri's github stats](https://github-readme-stats.vercel.app/api?username=fachryansyah&show_icons=true&theme=synthwave&show_owner=false)
 
 <!-- ![Fahri's Coding stats](https://wakatime.com/share/@7d82f9d3-8407-442a-8019-175d436a3f0f/0ab23028-8fae-44f2-8117-780f30d2c673.svg) -->
 <!--
