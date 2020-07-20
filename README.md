@@ -1,6 +1,6 @@
 ![Cover](https://raw.githubusercontent.com/fachryansyah/fachryansyah/master/cover.png)
 ### My GitHub Stats
-![Fahri's github stats](https://github-readme-stats.vercel.app/api?username=fachryansyah&show_icons=true&theme=synthwave&show_owner=false)
+![Fahri's github stats](https://github-readme-stats.vercel.app/api?username=fachryansyah&show_icons=true&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618&show_owner=false)
 
 <!-- ![Fahri's Coding stats](https://wakatime.com/share/@7d82f9d3-8407-442a-8019-175d436a3f0f/0ab23028-8fae-44f2-8117-780f30d2c673.svg) -->
 <!--
