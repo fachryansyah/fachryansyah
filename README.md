@@ -1,4 +1,4 @@
-Hello, I'm muhammad fahriansyah, Born in Indonesia-West Java June 25, 2001, I studied computers since I was 13 years old, Just a backend developer with an affinity for Php, Python, JS, C, GO. Loves performance and technology. very interested in Ai and Machine Learning 
+Hello, I'm muhammad fahriansyah, Born in Indonesia-West Java June 25, 2001, I studied computers since I was 13 years old, Just a Software Engineer with an affinity for Php, Python, JS, C, GO. Loves performance and technology. very interested in Ai and Machine Learning 
 
 - 🔭 I’m currently working on PT. Citra Digital Lintas as Software Engineer
 - 🌱 I’m currently learning Go into expert, Automation, Devops, and Computer Vision
