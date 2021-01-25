@@ -5,12 +5,12 @@ Hello, I'm muhammad fahriansyah, Born in Indonesia-West Java June 25, 2001, I st
 - 👯 I’m looking to collaborate on Open Source Project but i'm already start in [Taklif](https://github.com/fachryansyah/taklif) Projects 
 - 🤔 I’m looking for help with A.I who can fix my code automatically
 - 💬 Ask me about Coding, Relationship, or anime
-- 📫 How to reach me: 
-  LinkedIn: https://www.linkedin.com/in/muhammad-fahriansyah-795071101/
-  Facebook: https://web.facebook.com/fachry.ansyah.10
-  Instagram: https://www.instagram.com/fachry.stark/
-  Telegram: https://t.me/fahri.stark
-- 😄 Pronouns: (fahri) without C
+- 📫 How to reach me: <br />
+  LinkedIn: https://www.linkedin.com/in/muhammad-fahriansyah-795071101/  <br />
+  Facebook: https://web.facebook.com/fachry.ansyah.10 <br />
+  Instagram: https://www.instagram.com/fachry.stark/ <br />
+  Telegram: https://t.me/fahri.stark <br />
+- 😄 Pronouns: (fahri) without C 
 - ⚡ Fun fact: My character looks like Tony Stark (seriously)
 
 ### My GitHub Stats
