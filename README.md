@@ -11,7 +11,7 @@ Hello, I'm muhammad fahriansyah, Born in Indonesia-West Java June 25, 2001, I st
   Facebook: https://web.facebook.com/fachry.ansyah.10 <br />
   Instagram: https://www.instagram.com/fachry.stark/ <br />
   Telegram: https://t.me/fahri.stark <br />
-- 😄 Pronouns: (fahri) without C 
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: My character looks like Tony Stark (seriously)
 
 ### My GitHub Stats
