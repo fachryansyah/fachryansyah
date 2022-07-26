@@ -1,5 +1,10 @@
 ### Intro
-Hello, I'm muhammad fahriansyah, Born in Indonesia-West Java June 25, 2001, I studied computers since I was 13 years old, Just a Software Engineer with an affinity for Php, Python, JS, C, GO. Loves performance and technology. very interested in Ai and Machine Learning 
+<p>
+Hello, I'm muhammad fahriansyah, Born in Indonesia-West Java June 25, 2001, I studied computers since I was 13 years old, Just a Software Engineer with an 
+affinity for Php, Python, JS, C, GO. Loves performance and technology. very interested in Ai and Machine Learning 
+
+<a href="https://app.daily.dev/fahriansyah"><img align="right" src="https://api.daily.dev/devcards/866e68c8b7044b9182f87c78980d8a7d.png?r=54v" width="400" alt="Muhammad Fahriansyah's Dev Card"/></a>
+</p>
 
 - 🔭 I’m currently working on PT. iCargo Logistic as Tech Lead Engineer
 - 🌱 I’m currently learning Go into expert, Automation, Devops, and Computer Vision
