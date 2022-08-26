@@ -8,7 +8,7 @@ affinity for Php, Python, JS, C, GO. Loves performance and technology. very inte
 
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning Go into expert, Automation, Devops, and Computer Vision
-- 💬 Ask me about Coding, Games, or anime
+- 💬 Ask me about coding, games, or anime
 - 📫 How to reach me: <br />
   LinkedIn: https://www.linkedin.com/in/muhammad-fahriansyah-795071101/  <br />
   Facebook: https://web.facebook.com/fachry.ansyah.10 <br />
